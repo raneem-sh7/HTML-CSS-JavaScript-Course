@@ -9,6 +9,8 @@ My learning journey in Web Development, covering HTML, CSS, and JavaScript throu
 - [x] Paragraphs
 - [x] Links
 - [x] Images
+- [x] Text Formatting & Semantic Tags
+- [x] Inline CSS Properties
 - [ ] Lists
 - [ ] Tables
 - [ ] Forms
