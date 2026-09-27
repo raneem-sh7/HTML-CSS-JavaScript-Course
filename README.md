@@ -12,7 +12,7 @@ My learning journey in Web Development, covering HTML, CSS, and JavaScript throu
 - [x] Text Formatting & Semantic Tags
 - [x] Inline CSS Properties
 - [ ] Lists
-- [ ] Tables
+- [x] Tables
 - [ ] Forms
 
 ### CSS
