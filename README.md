@@ -11,8 +11,9 @@ My learning journey in Web Development, covering HTML, CSS, and JavaScript throu
 - [x] Images
 - [x] Text Formatting & Semantic Tags
 - [x] Inline CSS Properties
-- [ ] Lists
+- [x] Lists
 - [x] Tables
+- [x] iFrame & quotation
 - [ ] Forms
 
 ### CSS
